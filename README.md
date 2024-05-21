@@ -41,3 +41,26 @@ In order to visualize the chemical composition of each product, an interactive v
 | 9                     | Cleansing Water Be Clean Be Moist 200ml             | Huxley            | 18.88 | 0.999245 |
 | 10                    | Curel Intensive Moisture Care Makeup Cleansing...   | Kao               | 19.00 | 0.999180 |
 
+<br>
+
+Now let's look closely at the top recommendation, the **No. 3 All Green pH Balancing Cleanser** from numbuzin! 
+
+<img width="552" alt="matcha hydrating and no3" src="https://github.com/itsanhtuanho/Mapping-and-Recommending-Skincare-Items-with-t-SNE-and-Bokeh/assets/46179761/fc812383-f323-4fe2-bafe-1e8cb8d0a248"> <br>
+
+
+<img width="552" alt="matcha hydrating and no3 ingredients" src="https://github.com/itsanhtuanho/Mapping-and-Recommending-Skincare-Items-with-t-SNE-and-Bokeh/assets/46179761/4a998a2a-151b-4f50-ac68-bb400a68c7f5">
+
+As you can see these 2 products share a whopping **19 ingredients** together:
+
+- $\frac{20}{31}$ or 63.33% of the ingredients found in the **Matcha Hydrating Foam Cleanser** are also found in the **No. 3 All Green pH Balancing Cleanser**
+
+- $\frac{20}{27}$ or 74.04% of the ingredients found in the **No. 3 All Green pH Balancing Cleanser** are also found in the **Matcha Hydrating Foam Cleanser**. 
+
+<br>
+
+Since the **Matcha Hydrating Foam Cleanser** is about $3 USD cheaper than the **No. 3 All Green pH Balancing Cleanser**, I would go as far to say that the former is a dupe for the latter!
+
+Special thanks to INCIDecoder, a website dedicated towards analyzing and explaining product ingredients lists!
+
+
+
